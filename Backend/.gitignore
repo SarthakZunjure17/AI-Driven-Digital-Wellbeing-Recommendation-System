@@ -71,4 +71,4 @@ build/
 
 # Temp folders
 tmp/
-temp/
+temp/"Backend/config/digital-ai-coach.json" 

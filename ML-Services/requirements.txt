@@ -1,7 +1,9 @@
 fastapi
 uvicorn
-joblib
-numpy
-pydantic
-scikit-learn
 xgboost
+joblib
+scikit-learn
+pandas
+numpy
+shap
+python-dotenv

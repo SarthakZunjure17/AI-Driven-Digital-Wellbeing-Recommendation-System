@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #0f172a;
+  color: #ffffff;
+}
+
+.app-container {
+  text-align: center;
+  padding: 40px;
+}
